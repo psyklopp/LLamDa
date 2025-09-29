@@ -6,6 +6,12 @@ This tutorial shows you how to build a Retrieval-Augmented Generation (RAG) syst
 
 Just you and your thoughts ☁️ 
 
+## 👨‍🏫👩‍🏫 For educators and teachers
+
+This project can be a nice starting point (for you and students) to get acquainted with RAG. 🎮 You can replace the files with anything - your notes, papers, documents, reports.
+
+The code will remain the same. You can change the prompt according to your liking!
+
 ## What You'll Build
 
 By the end of this tutorial, you'll have:

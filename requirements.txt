@@ -1,0 +1,6 @@
+pydantic-ai
+asyncpg
+logfire
+pydantic
+pydantic-core
+httpx

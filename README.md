@@ -65,16 +65,6 @@ Create a virtual environment and install dependencies:
 python -m venv diary-rag-venv
 source diary-rag-venv/bin/activate  # On Windows: .\diary-rag-venv\Scripts\activate
 
-# Create requirements.txt
-cat > requirements.txt << EOF
-pydantic-ai
-asyncpg
-logfire
-pydantic
-pydantic-core
-httpx
-EOF
-
 # Install dependencies
 pip install -r requirements.txt
 ```
@@ -206,6 +196,6 @@ I plan to extend and improve this project with following:
 - Mood tracking and visualization
 - Goal setting and progress monitoring - Turn life into a game!
 - Integration with other personal data sources
-- Mobile app interface for on-the-go journaling? (Probably not)
+- Mobile app interface for on-the-go journaling? (Probably ~~not~~ later 😅 )
 
 Happy journaling and building!

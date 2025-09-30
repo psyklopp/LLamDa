@@ -6,6 +6,15 @@ This tutorial shows you how to build a Retrieval-Augmented Generation (RAG) syst
 
 Just you and your thoughts ☁️ 
 
+### Links and resources
+
+- [ForcedLeak](https://noma.security/blog/forcedleak-agent-risks-exposed-in-salesforce-agentforce/): Attack on Salesforce AI agent
+- [OWASP LLM](https://genai.owasp.org/llm-top-10/): Top 10 Risks/Mitigation for GenAI in 2025
+- [Pydantic AI](https://ai.pydantic.dev/): Build agents and workflows in Python
+- [Illustration](https://www.confident-ai.com/blog/owasp-top-10-2025-for-llm-applications-risks-and-mitigation-techniques
+): OWASP LLM visualized with the components and respective risks.
+
+
 ## 👨‍🏫👩‍🏫 For educators and teachers
 
 This project can be a nice starting point (for you and students) to get acquainted with RAG. 🎮 You can replace the files with anything - your notes, papers, documents, reports.
